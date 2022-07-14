@@ -4,14 +4,14 @@
 </h1>
 
 <h1 align="center">  
+    <a href="https://vitejs.dev/" target="_blank"  rel="noopener noreferrer" >
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="25">
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
-        <img src="https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555" height="25">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25">
     </a>
     <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank"  rel="noopener noreferrer">
-        <img src="https://badges.aleen42.com/src/react.svg" height="25">
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank"  rel="noopener noreferrer" height="25">
-        <img src="https://badges.aleen42.com/src/visual_studio_code.svg" height="25">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25">
     </a>
 </h1>
 
@@ -25,11 +25,6 @@
 # :notebook: About
 
 Template Writed on Vite JS with Typescript
-
-<div align="center">
-    <img src="readme-assets/desk-side.png" width="600">
-
-</div>
 
 # :hammer: Technologies
 
@@ -69,11 +64,11 @@ Downloading dependencies:
 ```
 
 <p align=center> 
-  <h6 align=center>💙 Made by</h6> 
+  <h6 align=center>💙 Made by 💙</h6> 
   <h2 align=center>
   <a href="https://www.linkedin.com/in/gama-leal">  
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width=65>
-    Your Name
+    Moacir Gama
   </a>
   </h2>
 </p>
