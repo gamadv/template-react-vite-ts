@@ -67,7 +67,7 @@ Downloading dependencies:
   <h6 align=center>💙 Made by 💙</h6> 
   <h2 align=center>
   <a href="https://www.linkedin.com/in/gama-leal">  
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width=65>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width=70>
     Moacir Gama
   </a>
   </h2>
