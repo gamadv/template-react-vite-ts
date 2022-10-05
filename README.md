@@ -20,7 +20,7 @@
   <a href="#notebook-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#black_nib-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;
 </h3>
 
 # :notebook: About
@@ -34,6 +34,7 @@ Template Writed on Vite JS with Typescript
 - [x] <b>[React Js](https://reactjs.org/):</b> <i>JS Lib to build interface</i>
 - [x] <b>[Typescript](https://www.typescriptlang.org/):</b> <i>It's written in TypeScript</i>
 - [x] <b>[Vite Js](https://vitejs.dev/):</b> <i>Project creation tool </i>
+- [x] <b>[Axios](https://www.npmjs.com/package/axios):</b> <i>Promise based HTTP client for the browser and node.js </i>
 
 # :black_nib: Getting Started
 
