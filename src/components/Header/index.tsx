@@ -1,14 +1,14 @@
-import ViteLogo from '/favicon.svg';
-import './styles.css';
-import './styles.scss';
+import ViteLogo from "/favicon.svg";
+import "./styles.scss";
+import { useGlobal } from "../../context/GlobalContext";
 
 export default function Header() {
-  const teste = 'teste';
-  console.log(teste)
+  const { contextWorking } = useGlobal();
   return (
     <header className="headerContainer">
       <img src={ViteLogo} alt="Logo" />
-      My template header
+
+      <div className="wrapper">My template header - {contextWorking}</div>
     </header>
   );
 }
