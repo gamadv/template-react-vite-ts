@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img src="src/favicon.svg" width=70 height=70 />
+  <img src="public/favicon.svg" width=70 height=70 />
   Vite JS Template With TypeScript  
 </h1>
 
